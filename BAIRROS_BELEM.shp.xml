@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="pt"><Esri><CreaDate>20190909</CreaDate><CreaTime>12320500</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20160603" Time="150602">AddField BAIRROS_3 COD_BAIRRO TEXT # # 20 # NULLABLE NON_REQUIRED #</Process></lineage></DataProperties></Esri></metadata>
